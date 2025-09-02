@@ -11,4 +11,4 @@ Esta es mi página de perfil donde muestro información sobre mí y mis redes so
 - GitHub Pages
 
 ## Ver la página
-Puedes ver la página en vivo en: https://thefranktorres.github.io/my_profile_page/
+Puedes ver la página en: https://thefranktorres.github.io/my_profile_page/
